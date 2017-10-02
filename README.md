@@ -1,5 +1,5 @@
 # Responsive_Webpage
-[Try Me](https://getbootstrap.com/)
+[Demo || IMAGE GALLERY](https://skypto.github.io/responsive_page/)
 
 * This is a responsive single page website that uses Bootstap. 
 * The page is able to resize easily without loosing its usability and also compatible on multiple screen sizes.
